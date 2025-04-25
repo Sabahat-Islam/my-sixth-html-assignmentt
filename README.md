@@ -1,1 +1,1 @@
-# my-sixth-html-assignmentt
+# my-sixth-html-assignment
